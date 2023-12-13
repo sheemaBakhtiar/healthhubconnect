@@ -330,4 +330,7 @@ main .main-img{
         width: 50%;
         margin-bottom: 30px;
     }
+    header{
+	    height:50px;
+    }
 }
